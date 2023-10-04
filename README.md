@@ -63,7 +63,6 @@
 
 ## Tools
 [<img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>]()
-[<img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23DD0031.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>]()
 [<img alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>]()
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
 [<img alt="linux" src="https://img.shields.io/badge/Linux-ffca28?style=for-the-badge&logo=linux&logoColor=black"/>]()
