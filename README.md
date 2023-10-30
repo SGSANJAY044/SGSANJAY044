@@ -45,7 +45,6 @@
  [<img alt="Bash" src="https://img.shields.io/badge/Bash%20-%2343853D.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>]()
 
 ## FrameWorks/Libraries
-[<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()
 [<img alt="React Js" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
 [<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB"/>]()
 [<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-%23000000.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>]()
