@@ -73,4 +73,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGSANJAY044&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGSANJAY044&count_private=true&show_icons=true&theme=dark)]()
+[![SANJAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGSANJAY044&count_private=true&show_icons=true&theme=dark)]()
+![SANJAY's Leetcode stats](https://leetcard.jacoblin.cool/sgsanjay044?theme=dark&font=Roboto)
