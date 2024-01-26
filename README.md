@@ -21,7 +21,7 @@
   <a href="https://twitter.com/SGSanjay044/">
     <img 
       height="25" 
-      src="https://img.shields.io/badge/%40SGSanjay044-TWITTER-%231DA1F2?style=flat-square&labelColor=%23817777"
+      src="https://img.shields.io/badge/%40SGSanjay044-TWITTER-%23000000?style=flat-square&labelColor=%23817777"
       target="blank"
     >
   </a>
